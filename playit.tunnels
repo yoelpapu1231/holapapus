@@ -82,7 +82,7 @@
           "agent_id": "51dc0c6d-d8ee-4bbe-8438-2afffd5bd7dd",
           "agent_name": "Moonellol",
           "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_port": 4227
         },
         "type": "agent"
       },
